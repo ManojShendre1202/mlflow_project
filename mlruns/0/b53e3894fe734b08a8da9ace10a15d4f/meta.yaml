@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/datascienceprojects/mlflow%20projects/mlruns/0/b53e3894fe734b08a8da9ace10a15d4f/artifacts
+end_time: 1709191537213
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b53e3894fe734b08a8da9ace10a15d4f
+run_name: spiffy-shad-411
+run_uuid: b53e3894fe734b08a8da9ace10a15d4f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709191533949
+status: 3
+tags: []
+user_id: root
